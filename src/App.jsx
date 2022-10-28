@@ -40,13 +40,14 @@ function App() {
         </a>
       </div>
       <div>
-        <a href="https://background.zuri.team" id="pitch"></a>
-        <h3>
-          have any suggestions on how to run background checks on coders ?
-        </h3>
-        <h3>
-          <span>click </span>to find relevant books in our online library
-        </h3>
+        <a href="https://background.zuri.team" id="pitch">
+          <h3>
+            have any suggestions on how to run background checks on coders ?
+          </h3>
+          <h3>
+            <span>click </span>to find relevant books in our online library
+          </h3>
+        </a>
       </div>
       <div>
         <a href="https://books.zuri.team/design-rules" id="book_design">
