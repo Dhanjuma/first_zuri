@@ -352,6 +352,7 @@ textarea {
 .form-container textarea {
   height: 15em;
   width: 100%;
+  resize: none;
 }
 .form-container #email {
   width: 100%;
