@@ -40,7 +40,8 @@ const Contact = () => {
         <div className="check">
           <input type="checkbox" name="agree" id="agree" />
           <label htmlFor="agreee">
-            You agree to providing your data to (name) who may contact you.
+            You agree to providing your data to Yahaya Abdullah Danjuma who may
+            contact you.
           </label>
         </div>
         <div>
